@@ -1,4 +1,4 @@
-# exampleofjsonrpc4j
+# example of jsonrpc4j with spring boot
 an example of using jsonrpc4j with integration to spring boot
 
 ## usage
